@@ -1,0 +1,195 @@
+{
+ "start": "2026-10-02T17:00:00Z",
+ "resetHourUtc": 17,
+ "variations": [
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "alpine",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "alpine",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "mesa",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "alpine",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "alpine",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "mesa",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "mesa",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "alpine",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "mesa",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "mesa",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "alpine",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "alpine",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "mesa",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "mesa",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "alpine",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "alpine",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "mesa",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "alpine",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "alpine",
+    "caldera",
+    "kiln"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "tropics",
+    "mesa",
+    "gloom",
+    "citadel"
+   ]
+  },
+  {
+   "biomes": [
+    "shore",
+    "roots",
+    "mesa",
+    "caldera",
+    "kiln"
+   ]
+  }
+ ]
+}
